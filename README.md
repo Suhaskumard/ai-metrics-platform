@@ -10,7 +10,7 @@ In production environments, a model's prediction is useless without context. Thi
 
 Prediction: The raw model output. 
  
-Confidence: How certain the model is about this specific inference.
+Confidence: How certain the model is about this specific inference. 
  
 Data Quality: Is the incoming data reliable, or has it drifted?
 
